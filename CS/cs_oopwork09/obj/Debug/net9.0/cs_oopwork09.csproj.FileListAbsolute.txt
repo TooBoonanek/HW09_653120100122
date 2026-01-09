@@ -1,0 +1,14 @@
+D:\Tinnakorn\BoonanekOOP\Homework\HW09_653120100122\CS\cs_oopwork09\bin\Debug\net9.0\cs_oopwork09.exe
+D:\Tinnakorn\BoonanekOOP\Homework\HW09_653120100122\CS\cs_oopwork09\bin\Debug\net9.0\cs_oopwork09.deps.json
+D:\Tinnakorn\BoonanekOOP\Homework\HW09_653120100122\CS\cs_oopwork09\bin\Debug\net9.0\cs_oopwork09.runtimeconfig.json
+D:\Tinnakorn\BoonanekOOP\Homework\HW09_653120100122\CS\cs_oopwork09\bin\Debug\net9.0\cs_oopwork09.dll
+D:\Tinnakorn\BoonanekOOP\Homework\HW09_653120100122\CS\cs_oopwork09\bin\Debug\net9.0\cs_oopwork09.pdb
+D:\Tinnakorn\BoonanekOOP\Homework\HW09_653120100122\CS\cs_oopwork09\obj\Debug\net9.0\cs_oopwork09.GeneratedMSBuildEditorConfig.editorconfig
+D:\Tinnakorn\BoonanekOOP\Homework\HW09_653120100122\CS\cs_oopwork09\obj\Debug\net9.0\cs_oopwork09.AssemblyInfoInputs.cache
+D:\Tinnakorn\BoonanekOOP\Homework\HW09_653120100122\CS\cs_oopwork09\obj\Debug\net9.0\cs_oopwork09.AssemblyInfo.cs
+D:\Tinnakorn\BoonanekOOP\Homework\HW09_653120100122\CS\cs_oopwork09\obj\Debug\net9.0\cs_oopwork09.csproj.CoreCompileInputs.cache
+D:\Tinnakorn\BoonanekOOP\Homework\HW09_653120100122\CS\cs_oopwork09\obj\Debug\net9.0\cs_oopwork09.dll
+D:\Tinnakorn\BoonanekOOP\Homework\HW09_653120100122\CS\cs_oopwork09\obj\Debug\net9.0\refint\cs_oopwork09.dll
+D:\Tinnakorn\BoonanekOOP\Homework\HW09_653120100122\CS\cs_oopwork09\obj\Debug\net9.0\cs_oopwork09.pdb
+D:\Tinnakorn\BoonanekOOP\Homework\HW09_653120100122\CS\cs_oopwork09\obj\Debug\net9.0\cs_oopwork09.genruntimeconfig.cache
+D:\Tinnakorn\BoonanekOOP\Homework\HW09_653120100122\CS\cs_oopwork09\obj\Debug\net9.0\ref\cs_oopwork09.dll
